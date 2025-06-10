@@ -1,9 +1,9 @@
 # AUTOMATED-REPORT-GENERATION
 **COMPANY** : CODETECH
-**NAME** : VEGASH KUMAR M
-**INTERN ID** : CT08HZA
+**NAME** : Bondhaleti Harshitha
+**INTERN ID** : CT06DL958
 **DOMAIN** : PYTHON PROGRAMMING INTERNSHIP
-**BATCH DURATION** : 1st January 2025 to 30th January 2025
+**BATCH DURATION** : May 5th 2025 to June 20th 2025
 **DESCRIPTION** : Automated Report Generation is an efficient and time-saving solution designed to generate dynamic, data-driven reports automatically. This project aims to streamline the process of generating reports, making it more scalable, reliable, and faster. Whether for business performance, project progress, financial analysis, or other data-driven contexts, this solution takes raw data, processes it, and generates structured, readable reports in formats such as PDF, HTML, or Excel.
 
 The goal of the project is to automate the process of creating detailed reports that summarize key metrics, trends, and insights in a consistent and visually appealing format. This approach reduces human errors, enhances productivity, and ensures that the reports are created consistently with minimal intervention.
